@@ -1,4 +1,4 @@
-Essa atividade deverá ser feita em dupla. Você e seu colega desenvolverão, remotamente, duas histórias em conjunto. Uma será iniciada por você neste computador, numa branch com seu nome. A outra história pela outra pessoa, numa branch feita por ela.
+﻿Essa atividade deverá ser feita em dupla. Você e seu colega desenvolverão, remotamente, duas histórias em conjunto. Uma será iniciada por você neste computador, numa branch com seu nome. A outra história pela outra pessoa, numa branch feita por ela.
 
 A ideia é que vocês escrevam apenas um parágrafo por vez, alternando entre escrever um parágrafo na sua história e o seguinte na do(a) colega.
 
@@ -11,4 +11,4 @@ Era uma vez, em um lugar tão tão distante, um reino chamado EJCM. No centro do
 Tudo ia bem quando de repente, num dia frio típico de inverno, eles avistaram um grupo de pessoas correndo em direção ao castelo. Desesperadas, gritavam por abrigo.
 O grupo vinha de um reino vizinho chamado Fundão, liderado pelo tirano rei Leher, e passava por um grave problema de segurança. O grupo de refugiados, então, pedia abrigo em EJCM.
 O rei Wesley, porém, decidiu que seu reino não conseguiria suportar o grande número de refugiados e mandou seus cavaleiros atirarem nos refugiados com as duas grandes balistas do castelo, apelidadas de Dinâmica e Entrevista.
-A dinâmica atingiu boa parte do grupo, que precisou lutar bravamente pela sua sobrevivência. Já a entrevista foi lançada quando todos ainda estavam dormindo e só as crianças mais espertas sobraram. Elas cresceram e hoje correm pelo NCE com esperança. 
+A dinâmica atingiu boa parte do grupo, que precisou lutar bravamente pela sua sobrevivência. Já a entrevista foi lançada quando todos ainda estavam dormindo e só as crianças mais espertas sobraram. Elas cresceram e hoje correm pelo NCE com esperança.
