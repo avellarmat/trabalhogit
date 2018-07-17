@@ -5,3 +5,6 @@ A ideia é que vocês escrevam apenas um parágrafo por vez, alternando entre es
 Quando terminarem de fazer um parágrafo, vocês deverão dar Push no git e esperar o(a) colega terminar de escrever o dele(a), e então, dar um Pull na branch deles e continuar a escrever na história deles de onde tiverem parado. 
 
 Você tem total liberdade para modificar trechos escritos por seu(ua) parceiro(a) na parte deles, mas vocês precisarão chegar a um acordo do que manter na hora de resolver os conflitos.
+
+
+Tudo ia bem quando de repente, num dia frio típico de inverno, eles avistaram um grupo de pessoas correndo em direção ao castelo. Desesperadas, gritavam por abrigo.
